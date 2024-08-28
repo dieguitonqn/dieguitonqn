@@ -2,6 +2,12 @@
 ## Mi nombre es Diego Morales 😄
 ![https://github.com/dieguitonqn/dieguitonqn/](./diarmodev_logo.jpg)
 
+### Sobre mi
+- 💻 Desarrollador fullstack freelance   
+- 👷‍♂️ Ingeniero Electrónico
+- 🧑‍🏫 Docente Universitario
+
+
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
